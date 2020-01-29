@@ -1,0 +1,7 @@
+name: CKEditor Moono Dark
+type: module
+description: Create Custom CKEditor Moono Dark Skin
+core: 8.x
+package: Codimth
+dependencies:
+  - ckeditor
